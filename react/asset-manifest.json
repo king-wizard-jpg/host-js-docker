@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.5c82febe.chunk.css",
+    "main.js": "/react/static/js/main.cba7034d.chunk.js",
+    "main.js.map": "/react/static/js/main.cba7034d.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.beade2db.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.beade2db.js.map",
+    "static/css/2.ddeb5eb5.chunk.css": "/react/static/css/2.ddeb5eb5.chunk.css",
+    "static/js/2.91b87918.chunk.js": "/react/static/js/2.91b87918.chunk.js",
+    "static/js/2.91b87918.chunk.js.map": "/react/static/js/2.91b87918.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/2.ddeb5eb5.chunk.css.map": "/react/static/css/2.ddeb5eb5.chunk.css.map",
+    "static/css/main.5c82febe.chunk.css.map": "/react/static/css/main.5c82febe.chunk.css.map",
+    "static/js/2.91b87918.chunk.js.LICENSE.txt": "/react/static/js/2.91b87918.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beade2db.js",
+    "static/css/2.ddeb5eb5.chunk.css",
+    "static/js/2.91b87918.chunk.js",
+    "static/css/main.5c82febe.chunk.css",
+    "static/js/main.cba7034d.chunk.js"
+  ]
+}
